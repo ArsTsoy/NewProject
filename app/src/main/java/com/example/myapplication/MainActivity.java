@@ -32,8 +32,17 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
-        //Hello Akmal
-        //Here is some new code
+        /**
+         * ---------------------------------
+         *
+         *
+         *
+         *
+         *
+         *
+         *
+         * ======================
+         */
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         NavigationView navigationView = findViewById(R.id.nav_view);
